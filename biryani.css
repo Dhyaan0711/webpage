@@ -1,0 +1,28 @@
+html{
+    background-color: lightgreen;
+}
+
+
+img{
+    width: 275px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+img:hover{
+    width: 375px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+p{
+    text-decoration: solid;
+    text-align: justify;
+    font-size: x-large;
+    font-weight: 200;
+    transition-delay: 2.7s;
+}

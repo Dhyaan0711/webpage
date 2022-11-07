@@ -1,0 +1,44 @@
+html{
+    background-color: #808080;
+}
+
+h1{
+    font-family: Arial;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h1:hover{
+    text-transform: capitalize;
+    font-size: 60px;
+    transition-delay:2.3s;
+}
+
+ul{
+    
+    display: inline;
+    color: black;
+    font-family: 'Courier New';
+    text-align: center;
+    margin: 6px;
+    font-size: xx-large;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+
